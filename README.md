@@ -38,7 +38,7 @@ int main() {
 ~~~
 
 # OUTPUT:
-<img width="610" height="357" alt="image" src="https://github.com/user-attachments/assets/b49f25a6-cbcf-4ee5-a937-aeeaad005b7b" />
+<img width="827" height="672" alt="image" src="https://github.com/user-attachments/assets/48cb0bdf-720f-4fdf-acf1-001c24ba620a" />
 
 # RESULT:
 Thus the implementation of pseudorandom number generation had been executed successfully.
